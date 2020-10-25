@@ -1,7 +1,5 @@
 # Lithuanian Speech Commands dataset
 
-!!audio will be here, when the article is published!!
-
 This is a dataset created for academic research in voice activation. The format of dataset is the same as in [Google Speech Commands dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html).
 
 In **raw** directory you can see:
